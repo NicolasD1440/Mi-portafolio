@@ -1,37 +1,33 @@
 {
-    "logo" : {
-        "source": "images/logo.png",
-        "height" : 45,
-        "width" : 50
-    },
+    
     "sections": [
         {
-            "title": "Home",
+            "title": "Inicio",
             "href": "/"
         },
         {
-            "title": "About",
+            "title": "Sobre mi",
             "href": "/about"
         },
         {
-            "title": "Skills",
+            "title": "Habilidades",
             "href": "/skills"
         },
         {
-            "title": "Education",
+            "title": "Educacion",
             "href": "/education"
         },
         {
-            "title": "Experience",
+            "title": "Experiencia",
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "title": "Proyectos",
             "href": "/projects"
         },
         {
-            "title": "Resume",
-            "href": "https://drive.google.com/file/d/13kaPsdMNDsM4LV9g7m5-E5PTildp-yYf/view?usp=sharing",
+            "title": "CV",
+            "href": "https://drive.google.com/file/d/1Oh-2X3fsFdl_6AHu13W0Ye44kjPId72-/view?usp=drive_link",
             "type": "link"
         }
     ]

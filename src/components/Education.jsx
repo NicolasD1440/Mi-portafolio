@@ -16,39 +16,58 @@ function Education(props) {
     })
       .then((res) => res.json())
       .then((res) => setData(res))
-      .catch((err) => err);
+      .catch((err) => console.error(err));
   }, []);
+
+  const renderTimeline = (items) => (
+    <div className="tl tl--education">
+      {items?.map((item) => (
+        <div className="tl-item" key={item.cardTitle + item.title}>
+          <div className="tl-node--icon">
+            {item.icon && (
+              <img src={item.icon.src} alt={item.icon.alt} />
+            )}
+          </div>
+
+          <div className="tl-card">
+            <div className="tl-date">{item.title}</div>
+
+            <h3 className="tl-title">{item.cardTitle}</h3>
+
+            <div className="tl-subtitle">
+              <span className="accent">{item.cardSubtitle}</span>
+            </div>
+
+            {item.cardDetailedText && (
+              <div className="tl-detail">
+                {item.cardDetailedText}
+              </div>
+            )}
+          </div>
+        </div>
+      ))}
+    </div>
+  );
 
   return (
     <>
       <Header title={header} />
+
       {data ? (
         <div className="section-content-container">
           <Fade triggerOnce>
-            <div className="tl tl--education">
-              {data.education?.map((item) => (
-                <div className="tl-item" key={item.cardTitle + item.title}>
-                  <div className="tl-node--icon">
-                    {item.icon && (
-                      <img src={item.icon.src} alt={item.icon.alt} />
-                    )}
-                  </div>
-                  <div className="tl-card">
-                    <div className="tl-date">{item.title}</div>
-                    <h3 className="tl-title">{item.cardTitle}</h3>
-                    <div className="tl-subtitle">
-                      <span className="accent">{item.cardSubtitle}</span>
-                    </div>
-                    {item.cardDetailedText && (
-                      <div className="tl-detail">{item.cardDetailedText}</div>
-                    )}
-                  </div>
-                </div>
-              ))}
-            </div>
+
+            <h2 className="timeline-title"></h2>
+            {renderTimeline(data.education)}
+      <Header title="Certificaciones" />
+            <h2 className="timeline-title mt-5"></h2>
+            {renderTimeline(data.certifications)}
+
           </Fade>
         </div>
-      ) : <FallbackSpinner /> }
+      ) : (
+        <FallbackSpinner />
+      )}
     </>
   );
 }

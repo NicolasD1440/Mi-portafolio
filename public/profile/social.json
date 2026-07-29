@@ -2,19 +2,15 @@
     "social": [
         {
             "network" : "linkedin",
-            "href": "https://linkedin.com/"
+            "href": "https://www.linkedin.com/in/deivy-nicol%C3%A1s-castiblanco-infante/"
         },
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "leetcode",
-            "href": "https://leetcode.com/"
+            "href": "https://github.com/NicolasD1440"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "mailto:nicolascastiblanco6@gmail.com"
         }
     ]
 }
