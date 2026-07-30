@@ -1,0 +1,30 @@
+{
+  "experiences": [
+    {
+      "title": "Consultor de Soluciones",
+      "subtitle": "Opciones Administrativas S.A.S.",
+      "workType": "Tiempo completo",
+      "workDescription": [
+        "Desarrollé e integré **APIs REST** para la automatización de procesos empresariales.",
+        "Optimicé consultas **Oracle SQL y PL/SQL**, reduciendo tiempos de respuesta hasta en un **30%**.",
+        "Automaticé reportes y procesos operativos sobre bases de datos Oracle.",
+        "Participé en el desarrollo y mantenimiento de aplicaciones empresariales con **Oracle APEX**.",
+        "Implementé buenas prácticas de desarrollo, validación y mantenimiento de software."
+      ],
+      "dateText": "Jul. 2024 – Oct. 2025"
+    },
+    {
+      "title": "Estudiante en Práctica",
+      "subtitle": "Opciones Administrativas S.A.S.",
+      "workType": "Práctica Profesional",
+      "workDescription": [
+        "Apoyé el desarrollo de funcionalidades backend utilizando **Java** y **SQL**.",
+        "Realicé mantenimiento y optimización de consultas SQL en ambientes productivos.",
+        "Participé en validaciones funcionales y en la mejora continua de procesos internos.",
+        "Brindé soporte sobre aplicaciones empresariales desarrolladas en **Oracle APEX**.",
+        "Colaboré en actividades de soporte técnico y mantenimiento de sistemas corporativos."
+      ],
+      "dateText": "Jul. 2023 – Jul. 2024"
+    }
+  ]
+}

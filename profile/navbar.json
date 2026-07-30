@@ -1,0 +1,35 @@
+{
+    
+    "sections": [
+        {
+            "title": "Inicio",
+            "href": "/"
+        },
+        {
+            "title": "Sobre mi",
+            "href": "/about"
+        },
+        {
+            "title": "Habilidades",
+            "href": "/skills"
+        },
+        {
+            "title": "Educacion",
+            "href": "/education"
+        },
+        {
+            "title": "Experiencia",
+            "href": "/experience"
+        },
+        {
+            "title": "Proyectos",
+            "href": "/projects"
+        },
+        {
+            "title": "CV",
+            "href": "https://drive.google.com/file/d/1Oh-2X3fsFdl_6AHu13W0Ye44kjPId72-/view?usp=drive_link",
+            "type": "link"
+        }
+    ]
+
+}

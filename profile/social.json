@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/deivy-nicol%C3%A1s-castiblanco-infante/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/NicolasD1440"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:nicolascastiblanco6@gmail.com"
+        }
+    ]
+}

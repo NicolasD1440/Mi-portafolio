@@ -1,0 +1,117 @@
+{
+    "projects" : [
+        {
+            "image": "images/projects/img1.png",
+            "title": "Gestor de Tareas",
+            "bodyText": "- Aplicación web de gestión de tareas con tablero Kanban y funcionalidad de arrastrar y soltar (Drag & Drop).\n- Permite autenticación mediante JWT, creación, edición, eliminación y filtrado de tareas por estado y categoría.\n- Desarrollada con React, Node.js, Express y PostgreSQL; desplegada con Docker, Nginx y Oracle Cloud Infrastructure (OCI).",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/Gestor-de-tareas-front"
+                },
+                {
+                    "text": "Demo",
+                    "href": "http://150.136.141.165/login"
+                }
+            ],
+            "tags": [
+                "React",
+                "Node.js",
+                "Express",
+                "PostgreSQL",
+                "JWT",
+                "Docker",
+                "Nginx",
+                "OCI"
+            ]
+        },
+        {
+            "image": "images/projects/img2.png",
+            "title": "JJD Food",
+            "bodyText": "- Aplicación web para la gestión y venta de comidas rápidas, diseñada para ofrecer una experiencia intuitiva tanto para clientes como para administradores.\n- Permite explorar el menú, realizar pedidos, gestionar el carrito de compras y administrar productos, categorías y usuarios.\n- Desarrollada con PHP, JavaScript, CSS y SCSS, utilizando una interfaz moderna, responsiva y enfocada en la experiencia del usuario.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/jjd-food"
+                }
+            ],
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "CSS",
+                "SCSS",
+                "MySQL"
+            ]
+        },
+        {
+            "image": "images/projects/img3.png",
+            "title": "JJD Food Mobile",
+            "bodyText": "- Aplicación móvil para restaurantes que permite explorar establecimientos, consultar menús y realizar pedidos de forma rápida e intuitiva.\n- Incluye geolocalización, carrito de compras, historial de pedidos, dashboard de gestión y seguimiento de pedidos.\n- Desarrollada en Java con Android Studio y Firebase, ofreciendo una experiencia móvil fluida y una integración en tiempo real con la base de datos.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/JJD_FOOD_MOBILE"
+                }
+            ],
+            "tags": [
+                "Java",
+                "Android Studio",
+                "Firebase",
+                "Android",
+                "Material Design"
+            ]
+        },
+        {
+            
+            "title": "Sistema de Gestión Académica - Genesis pro",
+            "bodyText": "- Plataforma web para la administración de información académica, diseñada para gestionar alumnos, profesores y administradores desde una única interfaz.\n- Permite realizar operaciones CRUD, autenticación de usuarios y administración de registros de manera eficiente.\n- Desarrollada con PHP, JavaScript, CSS y MySQL, implementando una interfaz intuitiva y una arquitectura orientada a la gestión de datos.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/Genesis-pro"
+                }
+            ],
+            "tags": [
+                "PHP",
+                "JavaScript",
+                "CSS",
+                "MySQL",
+                "CRUD"
+            ]
+        },
+        {
+            "title": "Manual para Practicantes",
+            "bodyText": "- Aplicación móvil desarrollada para apoyar a los estudiantes durante su etapa productiva, facilitando el estudio y repaso de conocimientos clave de forma práctica e interactiva.\n- Incluye contenido organizado por temas, navegación intuitiva y acceso rápido a información de consulta para reforzar el aprendizaje.\n- Desarrollada con Java en Android Studio e integrada con Firebase para la gestión y almacenamiento de la información.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/Manual_practicantes"
+                }
+            ],
+            "tags": [
+                "Java",
+                "Android Studio",
+                "Firebase",
+                "Android",
+                "Educación"
+            ]
+        },
+        {
+            "title": "Reproductor de Música",
+            "bodyText": "- Aplicación de escritorio para la reproducción de archivos de audio almacenados localmente, con una interfaz sencilla y fácil de usar.\n- Permite explorar carpetas, gestionar listas de reproducción y controlar la reproducción de música sin necesidad de conexión a internet o una base de datos.\n- Desarrollada en Java utilizando Eclipse, haciendo uso del sistema de archivos local para la gestión de las canciones.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/SpotyFox-2.0"
+                }
+            ],
+            "tags": [
+                "Java",
+                "Eclipse",
+                "Desktop",
+                "Java Swing",
+                "Archivos Locales"
+            ]
+        }
+    ]
+}

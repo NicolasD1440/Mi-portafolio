@@ -1,0 +1,133 @@
+{
+  "education": [
+    {
+      "title": "2020 - 2025",
+      "cardTitle": "Ingeniería de Sistemas",
+      "cardSubtitle": "UNIMINUTO",
+      "cardDetailedText": "Pregrado en Ingeniería de Sistemas",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94DkvYdT_WHItkCgREBIZtYWJTUY6284C-NRCC8Kj3Q&s=10"
+            }
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Jun 2026",
+      "cardTitle": "Desarrollo con Node.js: Aplicación, Testing y Seguridad",
+      "cardSubtitle": "Udemy",
+      "cardDetailedText": "Desarrollo de aplicaciones backend con Node.js, pruebas y buenas prácticas de seguridad.",
+       "icon" : {
+                "src": "https://yt3.googleusercontent.com/Y_G09q2it3FZMrbbxwLjgMjSanR1mZAsXnEE6g6ZaBXlq2dLIRsKqSrGTCMuiyvvVavu-xFvPEc=s900-c-k-c0x00ffffff-no-rj"
+            }
+    },
+    {
+      "title": "Mar 2026",
+      "cardTitle": "Introducción a la Inteligencia Artificial",
+      "cardSubtitle": "Compensar",
+      "cardDetailedText": "Conceptos fundamentales de Inteligencia Artificial.",
+       "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA7epyBuWtzS-PQ3k4tWSbe6UOEYul4JSEJMK8bVx-Kw&s=10"
+            }
+    },
+    {
+      "title": "Jun 2025",
+      "cardTitle": "Oracle Cloud Success Navigator Essentials",
+      "cardSubtitle": "Oracle",
+      "cardDetailedText": "Fundamentos de Oracle Cloud Success Navigator e infraestructura en la nube.",
+       "icon" : {
+                "src": "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+            }
+    },
+    {
+      "title": "Ago 2024",
+      "cardTitle": "Auditor Interno ISO/IEC 27001:2022",
+      "cardSubtitle": "TÜV Rheinland South America",
+      "cardDetailedText": "Auditor interno en Sistemas de Gestión de Seguridad de la Información.",
+       "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSN5vhtsFi84LtvSMyQi47d6DiuU5QA43g1bLTEkOeg&s=10"
+            }
+    },
+    {
+      "title": "May 2024",
+      "cardTitle": "Certificaciones Cisco",
+      "cardSubtitle": "Cisco",
+      "cardDetailedText": "Ciberseguridad, Linux y fundamentos de redes.",
+       "icon" : {
+                "src": "https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg"
+            }
+    },
+    {
+      "title": "Abr 2024",
+      "cardTitle": "Programa especializado: Gestión de Proyectos",
+      "cardSubtitle": "Tecnológico de Monterrey",
+      "cardDetailedText": "Fundamentos de gestión de proyectos y metodologías.",
+      "icon" : {
+                "src": "https://international.udemedellin.edu.co/wp-content/uploads/2021/07/monterrey-1.jpg"
+            }
+    },
+    {
+      "title": "Feb 2024",
+      "cardTitle": "Programa especializado: Introducción a la Inteligencia Artificial",
+      "cardSubtitle": "Universidad Nacional Autónoma de México",
+      "cardDetailedText": "Fundamentos y aplicaciones de la Inteligencia Artificial.",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPhblhUlm8kdNdMr7Az3KRXW9a3v76yhgDAD9acEQac2jid5Y-3sEw9Wg&s=10"
+            }
+    },
+    {
+      "title": "Ago 2023",
+      "cardTitle": "Oracle Cloud Infrastructure Foundations Associate",
+      "cardSubtitle": "Oracle",
+      "cardDetailedText": "Fundamentos de Oracle Cloud Infrastructure (OCI).",
+      "icon" : {
+                "src": "https://mma.prnewswire.com/media/467598/Oracle_Logo.jpg?p=facebook"
+            }
+    },
+    {
+      "title": "May 2023",
+      "cardTitle": "Programa especializado: Aprende a programar con Python",
+      "cardSubtitle": "Universidad Austral, Argentina",
+      "cardDetailedText": "Programación con Python y resolución de problemas.",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nJz9qNuWp3BZT-999Alj63HHAwZiaEIkGeIegBwrrA&s=10"
+            }
+    },
+    {
+      "title": "May 2023",
+      "cardTitle": "Programa especializado: Desarrollo de aplicaciones móviles con Android",
+      "cardSubtitle": "Universidad Nacional Autónoma de México",
+      "cardDetailedText": "Desarrollo de aplicaciones Android con Java.",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUPhblhUlm8kdNdMr7Az3KRXW9a3v76yhgDAD9acEQac2jid5Y-3sEw9Wg&s=10"
+            }
+    },
+    {
+      "title": "Ago 2022",
+      "cardTitle": "Git y GitHub: Control de versiones en Proyectos Web",
+      "cardSubtitle": "Crehana",
+      "cardDetailedText": "Control de versiones con Git y GitHub.",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-DjZGREhCKW-Fc8QFxK8MEE1F6jkpVjsQ5qia4viXk8ahy2hd8cr5_o&s=10"
+            }
+    },
+    {
+      "title": "Ene 2022",
+      "cardTitle": "Introducción al desarrollo web con PHP",
+      "cardSubtitle": "Domestika",
+      "cardDetailedText": "Desarrollo web básico con PHP.",
+      "icon" : {
+                "src": "https://imgproxy.domestika.org/unsafe/w:820/plain/src://content-items/002/978/137/domestika---Isotipos-%28rojo-_F02D00%29-original.png?1557339712"
+            }
+    },
+    {
+      "title": "Dic 2021",
+      "cardTitle": "Crea aplicaciones en Android con Java",
+      "cardSubtitle": "Crehana",
+      "cardDetailedText": "Desarrollo de aplicaciones Android utilizando Java.",
+      "icon" : {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-DjZGREhCKW-Fc8QFxK8MEE1F6jkpVjsQ5qia4viXk8ahy2hd8cr5_o&s=10"
+            }
+    }
+  ]
+
+}
