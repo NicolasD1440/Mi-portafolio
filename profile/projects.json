@@ -25,6 +25,30 @@
                 "OCI"
             ]
         },
+         {
+            "image": "images/projects/img4.jpg",
+            "title": "Monitor de Servidor",
+            "bodyText": "- Sistema web para monitorear métricas (CPU, RAM, almacenamiento) y administrar un servidor Linux desde una interfaz intuitiva.\n- Permite la gestión completa de contenedores Docker (listar, consultar estado, reiniciar) y la administración de backups en Oracle Cloud Infrastructure (OCI).\n- Arquitectura modular desarrollada con React/Vite en el frontend, Nginx como proxy inverso, y microservicios backend utilizando Flask y un HostAgent.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/NicolasD1440/Monitor-sistemas"
+                },
+                {
+                    "text": "Demo",
+                    "href": "https://nicolasdev.duckdns.org/monitor/processes"
+                }
+            ],
+            "tags": [
+                "React",
+                "Vite",
+                "Flask",
+                "Nginx",
+                "Docker",
+                "OCI",
+                "Linux"
+            ]
+        },
         {
             "image": "images/projects/img2.png",
             "title": "JJD Food",
